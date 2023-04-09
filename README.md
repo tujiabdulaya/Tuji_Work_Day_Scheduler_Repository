@@ -8,4 +8,6 @@ Created a calendar application that allows a user to save events for each hour o
 
 https://tujiabdulaya.github.io/Tuji_Work_Day_Scheduler_Repository/
 
+https://github.com/tujiabdulaya/Tuji_Work_Day_Scheduler_Repository
 
+![Work Schedule](./Assets/img/Work-planner.png)
