@@ -33,10 +33,10 @@ $(function () {
   
 });
  
-var todaysDate = dayjs().format('MMM D, YYYY');
+var todaysDate = dayjs().format('dddd, MMM D, YYYY');
 console.log(todaysDate)
 
-$("ccurrentDay").text(todaysDate);
+$("#currentDay").text(todaysDate);
 
 
 
