@@ -32,3 +32,11 @@ $(function () {
 
   
 });
+ 
+var todaysDate = dayjs().format('MMM D, YYYY');
+console.log(todaysDate)
+
+$("ccurrentDay").text(todaysDate);
+
+
+
