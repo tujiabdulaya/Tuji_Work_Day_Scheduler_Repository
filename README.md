@@ -6,4 +6,6 @@ Created a calendar application that allows a user to save events for each hour o
 
 ## Deployed link for this weeks challange 
 
+https://tujiabdulaya.github.io/Tuji_Work_Day_Scheduler_Repository/
+
 
